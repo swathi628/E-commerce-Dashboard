@@ -1,0 +1,29 @@
+Column Name	Purpose
+Order ID	Unique order identifier
+Order Date	Date of purchase
+Customer ID	Unique customer identifier
+Customer Name	Customer name
+Customer Age	Age analysis
+Gender	Male/Female analysis
+City	City-wise sales
+State	State-wise sales
+Country	Country-wise sales
+Product ID	Unique product identifier
+Product Name	Product details
+Category	Product category
+Sub-Category	Detailed category
+Brand	Brand analysis
+Quantity	Units sold
+Unit Price	Price per item
+Discount (%)	Discount analysis
+Sales	Revenue generated
+Cost Price	Product cost
+Profit	Profit earned
+Profit Margin (%)	Profitability analysis
+Payment Method	UPI, Card, Cash, etc.
+Shipping Cost	Logistics cost
+Delivery Status	Delivered, Pending, Returned
+Return Status	Return analysis
+Customer Rating	Product satisfaction
+Review Count	Product popularity
+Seller Name	Marketplace seller analysi
